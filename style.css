@@ -98,12 +98,12 @@ nav ul li a:hover {
 }
 
 .content .image img {
-    width: 300px;
+    width: 400px;
 }
 
 @media (min-width:950px) and (max-width:1150px) {
     .content .image img {
-        width: 250px;
+        width: 330px;
     }
 }
 
